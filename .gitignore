@@ -1,0 +1,22 @@
+node_modules/
+dist/
+*.log
+.env
+.env.local
+.env.*.local
+
+# Data files (downloaded from Kaggle)
+data/train_transaction.csv
+data/train_identity.csv
+data/test_transaction.csv
+data/test_identity.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
