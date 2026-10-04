@@ -1,0 +1,15 @@
+{
+  "high_amount_velocity": { "weight": 0.15 },
+  "cnp_mismatch": { "weight": 0.12 },
+  "device_anomaly": { "weight": 0.10 },
+  "email_domain_risk": { "weight": 0.08 },
+  "avs_failure": { "weight": 0.10 },
+  "timezone_deviation": { "weight": 0.07 },
+  "frequency_burst": { "weight": 0.10 },
+  "cross_border_velocity": { "weight": 0.10 },
+  "product_category_mismatch": { "weight": 0.08 },
+  "identity_mismatch": { "weight": 0.07 },
+  "network_anonymization": { "weight": 0.12 },
+  "behavioral_deviation": { "weight": 0.11 },
+  "anomalyThreshold": 0.5
+}
